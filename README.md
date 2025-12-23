@@ -22,7 +22,7 @@ Complete pipeline for Java applications with quality gates and Kubernetes deploy
 - SonarCloud code quality analysis
 - Automated Kubernetes deployment
 
-### 4. Python Application (`Fibonacci.py`)
+### 2. Python Application (`Fibonacci.py`)
 
 Sample Python application with test cases for CI/CD demonstration.
 
